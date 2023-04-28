@@ -1,4 +1,4 @@
-# Myntra-Analysis--Power-BI
+# Myntra Analysis-Power-BI
 We'll dive into creating a dashboard for Myntra company that includes key metrics and insights. We'll show you how to create visualizations, such as charts and graphs, and how to customize them to fit your needs. 
 We'll also cover the different types of visualizations available in Power BI, such as tables, matrixes, and maps.
 
